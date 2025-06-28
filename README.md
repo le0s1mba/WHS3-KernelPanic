@@ -6,5 +6,4 @@
 
 ## Midterm Report
 발표 자료와 별개로 작성한 중간 보고서입니다.
-> assets
-> Midterm Report.md
+> 중간보고서_Kernel Pan!c.pdf
